@@ -1,0 +1,22 @@
+body {
+	font-family: sans-serif;
+}
+
+li {
+	list-style: none;
+}
+
+li:hover {
+	background-color: lightyellow;
+}
+
+mark {
+	background-color: #FFAAAA;
+}
+
+#shortcuts li {
+	display: inline;
+	padding: 0.5em;
+	margin: 0.2em;
+	background-color: orange;
+}
